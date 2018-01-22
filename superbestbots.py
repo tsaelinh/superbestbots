@@ -1,8 +1,8 @@
 import botrun
 import discord
 from discord.ext import commands
-import random
 import logging
+import random
 
 logging.basicConfig(level=logging.INFO)
 
